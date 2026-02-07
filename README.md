@@ -85,7 +85,7 @@ pip install -r requirements.txt
 Run the dashboard:
 
 ```bash
-python main.py
+python app.py
 ```
 
 - **Left panel**: enter trades (Spot, Strike, Call/Put, BUY/SELL, Qty, Vol, Rate, Maturity, Premium)
@@ -97,7 +97,7 @@ python main.py
 ## 📂 Project Structure
 
 ```
-├── main.py               # Entry point
+├── app.py               # Entry point
 ├── models/
 │   ├── black_scholes.py  # Black-Scholes pricing & Greeks
 │   ├── option.py         # Option class
