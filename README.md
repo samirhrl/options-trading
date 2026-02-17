@@ -48,7 +48,7 @@ Even if you haven’t cloned the repo, you can **visualize the dashboard**:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/options-trading-dashboard.git
+git clone https://github.com/options-trading
 cd options-trading-dashboard
 ```
 
