@@ -49,7 +49,7 @@ Even if you haven’t cloned the repo, you can **visualize the dashboard**:
 
 ```bash
 git clone https://github.com/options-trading
-cd options-trading-dashboard
+cd options-trading
 ```
 
 2. **Create and activate a virtual environment**
